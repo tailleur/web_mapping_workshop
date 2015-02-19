@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "busiek east"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22139739990234,
+          36.86066925053898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "busiek west"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23285579681396,
+          36.86338177975507
+        ]
+      }
+    }
+  ]
+}
