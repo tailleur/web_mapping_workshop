@@ -1,8 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////
 // Enter your mapbox map id here to reference it for the base layer
 
-var mapId = 'will-breitkreutz.k6fj4l3f'; //<- this references the ugly green map that I made
-var token = 'pk.eyJ1Ijoid2lsbC1icmVpdGtyZXV0eiIsImEiOiItMTJGWEF3In0.HEvuRMMVxBVR5-oDYvudxw'; //<- this is my token, use yours.
+var mapId = 'tailleur.l8mm4d13'; //<- this references the ugly green map that I made
+var token = 'pk.eyJ1IjoidGFpbGxldXIiLCJhIjoiQ1AzXzdzUSJ9.FkWD5SAw1_1STJagSXR8MA'; //<- this is my token, use yours.
 
 //Create the map object with your mapId and token
 L.mapbox.accessToken = token;
